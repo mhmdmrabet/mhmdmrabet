@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed M'rabet</h1>
 <h3 align="center">A passionate developer from Paris, France.</h3>
 
-- 🔭 I’m currently working on **Tribz**
+- 🔭 I’m currently working on **PowerZ**
 
 - 🌱 I’m currently learning **ReactJS, AdonisJS, TypeScript**
 
