@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed M'rabet</h1>
 <h3 align="center">A passionate developer from Paris, France.</h3>
 
-- 🔭 I’m currently working on **PowerZ**
+- 🔭 I’m currently student at **[42 PARIS](https://42.fr/)**
 
-- 🌱 I’m currently learning **ReactJS, AdonisJS, TypeScript**
+- 🌱 I’m currently learning **C, ReactJS, AdonisJS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://mohamedmrabet.com](https://mohamedmrabet.com)
 
