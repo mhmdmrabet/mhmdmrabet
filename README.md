@@ -20,4 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdmrabet&show_icons=true&locale=en&layout=compact" alt="mhmdmrabet" /></p>
 
+[![mmrabet's 42 stats](https://badge42.vercel.app/api/v2/cla807unr00110fmkf764e69r/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdmrabet&show_icons=true&locale=en" alt="mhmdmrabet" /></p>
