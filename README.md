@@ -20,8 +20,6 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla807unr00110fmkf764e69r/stats?cursusId=21&coalitionId=46" alt="mmrabet's 42 stats" /></a>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla807unr00110fmkf764e69r/project/2868483" alt="mmrabet's 42 Libft Score" /></a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdmrabet&show_icons=true&locale=en&layout=compact" alt="mhmdmrabet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdmrabet&show_icons=true&locale=en" alt="mhmdmrabet" /></p>
