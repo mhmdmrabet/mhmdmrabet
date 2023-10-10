@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed M'rabet</h1>
 <h3 align="center">A passionate developer from Paris, France.</h3>
 
-- 🔭 I’m currently student at **[42 PARIS](https://42.fr/)**
+- 🔭 I’m currently software engineer  at **[IDA 🍐](https://www.ai-ida.com/)**
 
 - 🌱 I’m currently learning **C, ReactJS, AdonisJS, TypeScript**
 
