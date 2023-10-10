@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed M'rabet</h1>
 <h3 align="center">A passionate developer from Paris, France.</h3>
 
-- 🔭 I’m currently software engineer  at **[IDA 🍐](https://www.ai-ida.com/)**
+- 🔭 I’m currently software engineer  at **[IDA](https://www.ai-ida.com/)** 🍐
 
-- 🌱 I’m currently learning **C, ReactJS, AdonisJS, TypeScript**
+- 🌱 I’m currently learning **Python, FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://mohamedmrabet.com](https://mohamedmrabet.com)
 
