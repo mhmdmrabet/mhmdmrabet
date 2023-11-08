@@ -20,8 +20,6 @@
  </a> <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40"/> </a></p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mmrabet?1337Badge=off&UM6P=off" alt="mmrabet's 42 stats" /></a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdmrabet&show_icons=true&locale=en&layout=compact" alt="mhmdmrabet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdmrabet&show_icons=true&locale=en" alt="mhmdmrabet" /></p>
