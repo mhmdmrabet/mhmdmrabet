@@ -23,6 +23,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"
 " alt="cpp" width="40" height="40"/> 
  </a>
+  <a href="https://fr.wikipedia.org/wiki/Terraform_(logiciel)" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*1JJR9g1rDnMcrPGm.png" alt="terraform" width="40" height="40"/> 
+ </a>
+  </a>
+ <a href="https://fr.wikipedia.org/wiki/Google_Cloud_Platform" target="_blank" rel="noreferrer">
+  <img src="https://www.inaubi.fr/wp-content/uploads/2022/12/icon-Cloud-inaubi.png" alt="gcp" width="40" height="40"/> 
+ </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdmrabet&show_icons=true&locale=en&layout=compact" alt="mhmdmrabet" /></p>
