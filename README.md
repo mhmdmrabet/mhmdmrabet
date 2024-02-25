@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently software engineer  at **[IDA](https://www.ai-ida.com/)** 🍐
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Rust**, **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://mohamedmrabet.com](https://mohamedmrabet.com)
 
