@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently software engineer  at **[IDA](https://www.ai-ida.com/)** 🍐
 
-- 🌱 I’m currently learning **Rust**, **DevOps**
+- 🌱 I’m currently learning **Rust** and **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://mohamedmrabet.com](https://mohamedmrabet.com)
 
@@ -30,8 +30,10 @@
  <a href="https://fr.wikipedia.org/wiki/Google_Cloud_Platform" target="_blank" rel="noreferrer">
   <img src="https://www.inaubi.fr/wp-content/uploads/2022/12/icon-Cloud-inaubi.png" alt="gcp" width="40" height="40"/> 
  </a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
+ </a>
+ <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40"/> 
+ </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdmrabet&show_icons=true&locale=en&layout=compact" alt="mhmdmrabet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdmrabet&show_icons=true&locale=en" alt="mhmdmrabet" /></p>
