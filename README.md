@@ -1,39 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mohamed M'rabet</h1>
-<h3 align="center">A passionate developer from Paris, France.</h3>
+<h1 align="center">👋 Hi, I'm Mohamed M'rabet</h1>
+<p align="center">A passionate software engineer from Paris, France.</p>
 
-- 🔭 I’m currently software engineer  at **[IDA](https://www.ai-ida.com/)** 🍐
-
-- 🌱 I’m currently learning **Rust** and **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://mohamedmrabet.com](https://mohamedmrabet.com)
-
-- 📫 How to reach me **mhmdmrabet@yahoo.fr**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrabetmohamed94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrabetmohamed94" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamedmrabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmrabet" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/mrabetmohamed94"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mrabetmohamed94?style=social"></a>
+  <a href="https://linkedin.com/in/mohamedmrabet"><img alt="LinkedIn" src="https://img.shields.io/badge/-mohamedmrabet-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" </a>
- </a> <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40"/> </a>
- <a href="https://fr.wikipedia.org/wiki/Ansible_(logiciel)" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"
-" alt="cpp" width="40" height="40"/> 
- </a>
-  <a href="https://fr.wikipedia.org/wiki/Terraform_(logiciel)" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*1JJR9g1rDnMcrPGm.png" alt="terraform" width="40" height="40"/> 
- </a>
-  </a>
- <a href="https://fr.wikipedia.org/wiki/Google_Cloud_Platform" target="_blank" rel="noreferrer">
-  <img src="https://www.inaubi.fr/wp-content/uploads/2022/12/icon-Cloud-inaubi.png" alt="gcp" width="40" height="40"/> 
- </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
- </a>
- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40"/> 
- </a>
+---
+
+### 👨‍💻 About Me
+- 🏢 I'm currently working as a software engineer at [IDA](https://www.ai-ida.com/).
+- 🌱 Learning **Rust** and **DevOps** to expand my skills.
+- 💼 All of my projects are showcased on my [portfolio](https://mohamedmrabet.com).
+- 📩 Reach me at: **mhmdmrabet@yahoo.fr**
+
+### 🛠 Technologies & Tools
+#### Front-end
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+</p>
+
+#### Back-end
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
+#### DevOps & Cloud
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
+</p>
+
+#### Languages
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
