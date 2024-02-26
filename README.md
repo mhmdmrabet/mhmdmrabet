@@ -35,9 +35,3 @@
   </a>
 </p>
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedmrabet/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
