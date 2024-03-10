@@ -24,7 +24,7 @@
 #### Back-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=adonis,nest,fastapi,graphql,postgresql,mongodb,prisma" />
+    <img src="https://skillicons.dev/icons?i=adonis,nest,fastapi,django,graphql,postgresql,mongodb,prisma" />
   </a>
 </p>
 
