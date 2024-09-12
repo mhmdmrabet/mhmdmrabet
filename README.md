@@ -2,8 +2,8 @@
 <p align="center">A passionate software engineer from Paris, France.</p>
 
 ### 👨‍💻 About Me
-<!-- - 🏢 I'm currently working as a software engineer at [IDA](https://www.ai-ida.com/) 🍓. -->
-- 🌱 Learning **Rust** and **DevOps** to expand my skills.
+<!-- - 🏢 I'm currently working as a software engineer at [Luvaika](https://www.the-deployer.fr/) -->
+- 🌱 Learning **DevOps** to expand my skills.
 - 💼 All of my projects are showcased on my [portfolio](https://www.mohamedmrabet.com/).
 
 ### 🛠 Technologies & Tools
