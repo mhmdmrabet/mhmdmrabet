@@ -2,7 +2,7 @@
 <p align="center">A passionate software engineer from Paris, France.</p>
 
 ### 👨‍💻 About Me
-<!-- - 🏢 I'm currently working as a software engineer at [Luvaika](https://www.the-deployer.fr/) -->
+- 🏢 I'm currently working as a software engineer at [Greenly](https://greenly.earth/)
 - 🌱 Learning **DevOps** to expand my skills.
 - 💼 All of my projects are showcased on my [portfolio](https://www.mohamedmrabet.com/).
 
