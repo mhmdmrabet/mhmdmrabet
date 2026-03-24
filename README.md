@@ -23,14 +23,14 @@
 #### Back-end
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=adonis,nest,fastapi,django,graphql,postgresql,mongodb,prisma" />
+    <img src="https://skillicons.dev/icons?i=adonis,nest,fastapi,django,graphql,postgresql,mongodb,prisma,redis" />
   </a>
 </p>
 
 #### DevOps & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,gcp,terraform,ansible,git,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,gcp,terraform,ansible,git,github,githubactions,notion,kubernetes" />
   </a>
 </p>
 
