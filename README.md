@@ -2,7 +2,7 @@
 <p align="center">A passionate software engineer from Paris, France.</p>
 
 ### 👨‍💻 About Me
-- 🏢 I'm currently working as a software engineer at [Flippix](https://flippix.io/)
+- 🏢 I'm currently working as a software engineer at [Nepsis](https://nepsis.co/)
 - 🌱 Learning **IA** to expand my skills.
 
 ### 🛠 Technologies & Tools
