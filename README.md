@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 - 🏢 I'm currently working as a software engineer at [Nepsis](https://nepsis.co/)
-- 🌱 Learning **IA** to expand my skills.
+- 🌱 Learning **AI** to expand my skills.
 
 ### 🛠 Technologies & Tools
 #### Programming Languages
